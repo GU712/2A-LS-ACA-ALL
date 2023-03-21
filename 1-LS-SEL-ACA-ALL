@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/1-LS-SEL-ACA-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/1-SEL-LS-ACA-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]FILMES DE AÇÃO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1A-ACA-LS-MTX/main/A1-FLM-ACA-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/A-LS-FLM-ACA-ALL</externallink>
 <thumbnail>https://i.ibb.co/Rv36MLP/ACA-FLM-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/wSSV5t8/ASAO-FAN.png</fanart>
 <info>OS MELHORES FILMES DE AÇÃO ESTÃO AQUI.
@@ -27,7 +27,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]COLEÇÕES DE FILMES DE AÇÃO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1A-ACA-LS-MTX/main/B-COL-ACA-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/B-LS-COL-ACA-ALL</externallink>
 <thumbnail>https://i.ibb.co/XZ2Srpc/ACA-COL-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/wSSV5t8/ASAO-FAN.png</fanart>
 <info>AS MELHORES COLEÇÕES DE FILMES ESTÃO AQUI.
@@ -41,7 +41,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SÉRIES DE AÇÃO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1A-ACA-LS-MTX/main/C-SRS-ACA-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C-LS-SRS-ACA-ALL</externallink>
 <thumbnail>https://i.ibb.co/9sSR5QY/ACA-SRS-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/wSSV5t8/ASAO-FAN.png</fanart>
 <info>AS MELHORES SÉRIES DE AÇÃO ESTÃO AQUI.
@@ -55,7 +55,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/1-LS-SEL-ACA-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/1-SEL-LS-ACA-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </channel>
@@ -64,8 +64,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DO GENÊRO AÇÃO[/B][/COLOR]</name>
-<externallink><LINKDAPAGEANTERIOR></externallink>
+<name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-FLMS-ALL/main/2-SEL-GEN-FLM-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -76,7 +76,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/A-CATEGORIAS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
