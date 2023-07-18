@@ -9,16 +9,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 		
 <item>		
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]CHiPs[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=klmCX5DbOYY</link>		
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/obrPwSPS0q9zK5e7xwlVGlAmWSg.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/A7Zx5z367TM0lQRgTQ63q0JGs02.jpg</fanart>		
-<info>Assista ao trailer</info>		
-<genre>CRIME E DRAMA</genre> 		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]CHiPs (1977) - T01 - SD DUB[/B][/COLOR]</title>		
 		
 <link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 22 EPs[/B][/COLOR]</link>		
@@ -99,12 +89,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T03/LS-T03E02.mp4$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Os Trombadoes (Parte 2)[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T03/LS-T03E03.mp4$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Caes, Gatos e Ratos[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T03/LS-T03E04.mp4$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Alta Octanagem[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T03/LS-T03E05.mp4$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Olho da Morte[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T03/LS-T03E05.mp4$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Relogio da Morte - LEG[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T03/LS-T03E06.mp4$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Falsificasao[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T03/LS-T03E07.mp4$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]A Volta da Super Moto[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T03/LS-T03E08.mp4$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Os Sabidos[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T03/LS-T03E09.mp4$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]A Corredora (Parte 1)[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T03/LS-T03E10.mp4$nome=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]A Corredora (Parte 2)[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T03/LS-T03E09-10.mp4$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]A Corredora (Parte 1 e 2)[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T03/LS-T03E11.mp4$nome=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]O Oficial Corregedor[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T03/LS-T03E12.mp4$nome=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]O Racha[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T03/LS-T03E13.mp4$nome=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]A Segunda Chance[/B][/COLOR]</link>		
@@ -204,7 +193,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>		
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]CHiPs (1982) - T06 - SD DUB[/B][/COLOR]</title>		
 		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 06 - 00 EPs[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 06 - 22 EPs[/B][/COLOR]</link>		
 		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T06/LS-T06E01.mp4$nome=[COLOR orange][B]T06E01[COLOR yellow] -> [COLOR white]O Novo Parceiro[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Chips/T06/LS-T06E02.m4v$nome=[COLOR orange][B]T06E02[COLOR yellow] -> [COLOR white]Modelo Fotografico[/B][/COLOR]</link>		
