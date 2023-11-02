@@ -11,13 +11,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Perseguidor Implacável (1971) - HD DUB+LEG[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/1ACA-CL/Dirty.Harry/LS-1-Perseguidor.Implacavel.1971.HD.DUB+LEG.mkv</link>
-<thumbnail><ICONE></thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/bzci5jvKHxUAjD7YDuWiU6nVgc3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5kex1QQCRjNFKbsaFLaX4j3IDKa.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Perseguidor Implacável
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB+LEG
-[COLOR orange]ANO - 1971
-[COLOR orange]AÇÃO
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1971
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O policial Harry Callahan tenta rastrear um assassino psicopata num terraço antes que uma garota sequestrada morra. Quando o encontra, Harry abusa do direito civil do assassino, o que o coloca de volta nas ruas. 
 [/COLOR]</info>
 </item>
@@ -31,8 +31,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Magnum 44
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1973
-[COLOR orange]AÇÃO
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1973
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O detetive Harry Callahan reaparece para descobrir quem está por trás de uma onda de assassinatos, pois alguém está fazendo justiça com as próprias mãos ao matar os principais chefões do crime de São Francisco.
 [/COLOR]</info>
 </item>
@@ -46,8 +46,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Magnum 44
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB+LEG
-[COLOR orange]ANO - 1973
-[COLOR orange]AÇÃO
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1973
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O detetive Harry Callahan reaparece para descobrir quem está por trás de uma onda de assassinatos, pois alguém está fazendo justiça com as próprias mãos ao matar os principais chefões do crime de São Francisco.
 [/COLOR]</info>
 </item>
@@ -61,8 +61,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Sem Medo da Morte
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB+LEG
-[COLOR orange]ANO - 1976
-[COLOR orange]AÇÃO
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1976
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Harry Callahan, e sua parceira Kate Moore vão até a Ilha de Alcatraz para perseguir um grupo de terroristas, que sequestra o prefeito da cidade e exige um resgate de dois milhões de dólares.
 [/COLOR]</info>
 </item>
@@ -76,8 +76,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Impacto Fulminante
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1983
-[COLOR orange]AÇÃO
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1983
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Harry Callahan é chamado para encontrar uma vítima de estupro que está sedenta por vingança e caça seus estupradores para matá-los. Ele deverá encontrá-la antes dos criminosos e convencê-la a mudar de ideia.
 [/COLOR]</info>
 </item>
@@ -91,8 +91,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Dirty Harry na Lista Negra
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUAL+LEG
-[COLOR orange]ANO - 1988
-[COLOR orange]AÇÃO
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1988
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Harry descobre a existência de um jogo mortal, onde um grupo de pessoas faz uma lista com nomes de celebridades que merecem morrer. Mas ele percebe que terá que agir rápido, se quiser sair vivo do caso.
 [/COLOR]</info>
 </item>
@@ -106,8 +106,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Dirty Harry na Lista Negra
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB+LEG
-[COLOR orange]ANO - 1988
-[COLOR orange]AÇÃO
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1988
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Harry descobre a existência de um jogo mortal, onde um grupo de pessoas faz uma lista com nomes de celebridades que merecem morrer. Mas ele percebe que terá que agir rápido, se quiser sair vivo do caso.
 [/COLOR]</info>
 </item>
@@ -142,5 +142,31 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+B8-COL-Dirty.Harry-ALL
 
+<channels>
+<channel>
+<name>[COLOR white][B]Dirty Harry (05 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/B8-COL-Dirty.Harry-ALL</externallink>
+<thumbnail>https://i.ibb.co/WnhT65x/COL-DIRTHARRY-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/nBLY0qz/COL-DIRTHARRY-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Dirty Harry
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Drive [LUMINART-04]/FLMS/1ACA-CL/Dirty.Harry/LS-1-Perseguidor.Implacavel.1971.HD.DUB+LEG.mkv
+Drive [LUMINART-04]/FLMS/1ACA-CL/Dirty.Harry/LS-2-Magnum.44.1973.FHD.DUAL+LEG.mkv
+Drive [LUMINART-04]/FLMS/1ACA-CL/Dirty.Harry/LS-2-Magnum.44.1973.HD.DUB+LEG.mkv
+Drive [LUMINART-04]/FLMS/1ACA-CL/Dirty.Harry/LS-3-Sem.Medo.da.Morte.1976.HD.DUB+LEG.mkv
+Drive [LUMINART-04]/FLMS/1ACA-CL/Dirty.Harry/LS-4-Impacto.Fulminante.1983.HD.DUB+LEG.mkv
+Drive [LUMINART-04]/FLMS/1ACA-CL/Dirty.Harry/LS-5-Lista.Negra.1971.HD.DUAL+LEG.mkv
+Drive [LUMINART-04]/FLMS/1ACA-CL/Dirty.Harry/LS-5-Lista.Negra.1971.HD.DUB+LEG.mkv
 
