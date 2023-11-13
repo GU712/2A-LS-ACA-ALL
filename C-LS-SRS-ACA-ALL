@@ -16,14 +16,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]24 Horas (2001-2010) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]24 Horas (2001-2010) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C2-SRS-24.Horas-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/9I4ktOf2MSIHXo8FcmUVbwiBMV5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/be6mDIMv7cg8duWkcYVnTB8rphO.jpg</fanart>
-<info>Assista aqui os episodios da série 24 Horas 
-[COLOR orange][B]AÇÃO[/B][/COLOR]
-[COLOR orange][B]09 TEMPS - 204 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2001 a 2010[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B]24 Horas
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2001 a 2010
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]09 TEMPS - 204 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Agente federal Jack Bauer não se pode dar ao luxo de jogar pelas regras. Como membro da UCT (Unidade Contra Terrorismo), Jack deve parar bombas, vírus, tentativas de assassinato, e geralmente salvar alguém que lhe é próximo.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -34,56 +38,72 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Águia de Fogo (1984 - 1987) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Águia de Fogo (1984-1987) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C6-SRS-Aguia.de.Fogo-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/uSlnBIJsCkfXcHP7P9cOzmBIk4t.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
-<info>Assista aqui os episodios da série Águia de Fogo. 
-[COLOR orange][B]AÇÃO[/B][/COLOR]
-[COLOR orange][B]04 TEMPS - 70 EPs[/B][/COLOR]
-[COLOR orange][B]ANO - 1984 a 1987[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B]Águia de Fogo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1984 a 1987
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 70 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ao retornar da Líbia, após derrotar o criador do Águia de Fogo, Hawke e Dominic passam a usar o helicóptero como uma espécie de supermáquina alada para combater o crime.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Arcanjo Renegado (2020) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Arcanjo Renegado (2020-2022) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C10-SRS-Arcanjo.Renegado-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2p8nTAGBco5d2v6hqFBWN4OKPba.jpg</fanart>
-<info>Assista aqui os episodios da série Arcanjo Renegado. 
-[COLOR orange][B]AÇÃO[/B][/COLOR]
-[COLOR orange][B]01 TEMPS - 10 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2020[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B]Arcanjo Renegado
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020 a 2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 20 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Super Máquina (1982-1985) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Super Máquina (1982-1985) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C1-SRS-A.Super.Maquina-OLD-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/egcnrKBq0N3VQMuOY52BZCHU8YG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lcvImPWyoEd3Jr3W5sd5jxAw1PZ.jpg</fanart>
-<info>Assista aqui os episodios da série A Super Máquina. 
-[COLOR orange][B]AÇÃO[/B][/COLOR]
-[COLOR orange][B]04 TEMPS - 90  EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 1982 a 1985[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Super Máquina
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1982 a 1985
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 90  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Michael Knight, e cria o carro K.I.T.T., que possui avançada inteligência artificial. O novo Michael e a Super Máquina tornam-se, então, grandes defensores da justiça nesta memorável série dos anos 1980.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]As Panteras (1976-1980) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]As Panteras (1976-1980) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C9-SRS-As.Panteras-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/hTy1z8KR5NhFBUAt65Br9TWyuod.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/brNDL0tNemrDcLwTPWYhAOvMuu6.jpg</fanart>
-<info>Assista aqui os episodios da série As Panteras. 
-[COLOR orange][B]AÇÃO[/B][/COLOR]
-[COLOR orange][B]05 TEMPS - 110  EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 1976 a 1980[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B]Nomealvo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1976 a 1980
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 110  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]<TEXTO>
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -94,14 +114,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Bruce Lee: A Lenda (2008-2009) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Bruce Lee: A Lenda (2008-2009) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C3-SRS-Bruce.Lee.A.Lenda-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/8iJfbo6gHzGAeSkuVKuqvJmz6DX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/m8VBwXWXgAbD4Ge6p187H1Mfs2U.jpg</fanart>
-<info>Assista aqui os episodios da série Bruce Lee: A Lenda. 
-[COLOR orange][B]AÇAO[/B][/COLOR]
-[COLOR orange][B]05 TEMPS - 50 EPs[/B][/COLOR]
-[COLOR orange][B]ANO - 2008 a 2009 [/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B]Bruce Lee: A Lenda
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2008 a 2009
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 50 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A história do lendário ícone de artes marciais Bruce Lee seguindo-o de Hong Kong para a América e vice-versa, levando à sua trágica morte aos 32 anos de idade.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -112,14 +136,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Carga Explosiva: A Série (2012-2014) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Carga Explosiva: A Série (2012-2014) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C8-SRS-Carga.Explosiva-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/23ESZ6mTcJw8zHOkW4G38uIz147.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cF7uwwwbrqrOmh49N5E2EhpOd0T.jpg</fanart>
-<info>Assista aqui os episodios da série Carga Explosiva: A Série. 
-[COLOR orange][B]AÇÃO[/B][/COLOR]
-[COLOR orange][B]02 TEMPS - 24 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2012 a 2014[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B]Carga Explosiva: A Série
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2012 a 2014
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 24 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Frank Martin, um freelancer profissional que topa fazer qualquer tipo de entrega, sem perguntas. Ele vive sob três regras inquebráveis... que ele quebra com uma certa frequência.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -404,7 +432,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C-LS-SRS-ACA-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 </channel>
@@ -414,7 +442,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C-LS-SRS-ACA-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
