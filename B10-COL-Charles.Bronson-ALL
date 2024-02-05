@@ -41,7 +41,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iqjvMBxIPW3bCMH9IsqAbYRSRQY.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Adeus Amigo (1968)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Adeus.Amigo.(1968).mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z0zPjtCw4O6OK3KMJHp6yFQY9Th.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Algum Atrás da Porta (1971)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z0zPjtCw4O6OK3KMJHp6yFQY9Th.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Alguém Atrás da Porta (1971)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Alguem.Atras.da.Porta.(1971).mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qmkYA7ZDKHx96Tiek0OjbfwWujG.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Assassinato Nos Estados Unidos (1987)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Assassinato.Nos.Estados.Unidos.(1987).mkv
@@ -139,6 +139,8 @@ https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/O.Grande.Assalt
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/O.Grande.Bufalo.Branco.(1977).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Agf3JOg5KGc3wj75HuT7Y96gzf.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Trem do Inferno (1975)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/O.Trem.do.Inferno.(1975).mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jFM7j8CX0LOmeQDEJg3YYXIindC.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Canhões de San Sebastian (1968)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Canhoes.de.San.Sebastian.1968.FHD.DUB.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j9nVLvOv2Sz3KekD7elwGZII8F9.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Perseguição Mortal (1981)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Perseguisao.Mortal.1981.HD.dub.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bJqLypH8SrvfXMUvliN3kLWKgu.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Renegado Impiedoso (1972)[/B][/COLOR]
@@ -163,4 +165,7 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
 
