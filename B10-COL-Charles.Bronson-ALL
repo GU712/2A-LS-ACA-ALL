@@ -131,8 +131,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wONp8M3deISBKtIEaZgjrJzcvDN.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Valdez, O Mestiço (1973)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Valdez.O.Mestiso.1973.FHD.DUAL+LEG.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3B99NMSCddBZ4dL20QWVRsEZaRk.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Apache: O Último Bravo (1954)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Apache.Massai.O.Ultimo.Bravo.(1954).avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zFBNrHCvSo5cZMORmqLuytOKLDJ.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chumbo Quente (1977)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Chumbo.Quente.(1977).avi
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3RymloPYcEPx30T1vTrz2cXaVnh.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Era Uma Vez No Oeste (1968)[/B][/COLOR]
@@ -153,6 +153,8 @@ https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Renegado.Impied
 https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Sol.Vermelho.1971.FHD.DUAL+LEG.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hpTgBX0VDN4ezCiGNcAOqEqlxGa.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Villa, O Caudilho (1968)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Pancho.Villa.1968.FHD.DUB.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wONp8M3deISBKtIEaZgjrJzcvDN.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Valdez, O Mestiço (1973)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Valdez.O.Mestiso.1973.FHD.DUAL+LEG.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/l4vaTY4u6J8QOVzHMD1J8ARkMx1.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vera Cruz (1954)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Vera.Cruz.1954.FHD.DUAL+LEG.mkv
 
