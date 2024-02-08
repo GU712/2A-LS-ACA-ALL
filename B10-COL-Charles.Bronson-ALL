@@ -39,6 +39,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eGe89iiiOC57V5tuyOZQgtOtOMK.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]10 Minutos Para Morrer (1983)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/10.Minutos.Para.Morrer(1983).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iqjvMBxIPW3bCMH9IsqAbYRSRQY.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Adeus Amigo (1968)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Adeus.Amigo.(1968).mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z0zPjtCw4O6OK3KMJHp6yFQY9Th.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Alguém Atrás da Porta (1971)[/B][/COLOR]
@@ -214,8 +216,3 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
-
-
