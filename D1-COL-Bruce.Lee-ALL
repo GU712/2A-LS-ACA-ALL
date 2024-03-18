@@ -33,10 +33,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Bruce Lee (Série)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D1B-SRS-Bruce.Lee-ALL</externallink>
 <thumbnail>https://i.ibb.co/FKjPZtn/COL-B-LEE-ICON-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/QMyhJ5n/COL-B-LEE-FAN-ALL.png</fanart>
+<fanart>https://i.ibb.co/FKjPZtn/COL-B-LEE-ICON-SRS-ALL.png</fanart>
 <info>[COLOR white]Conheça a seção de séries: 
 [B]Bruce Lee
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 Não encontrou o que queria ? 
@@ -70,8 +70,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE ATORES E ATRIZES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/1A-SEL-ATORES-ALL</externallink>
+<name>[COLOR white][B]VOLTAR AO MENU DE AÇÃO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/1-LS-SEL-ACA-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -81,19 +81,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE FRANQUIAS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4A-SEL-ESPC-FRNQS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
+<name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2A-SEL-GEN-FLM-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -114,8 +103,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2A-SEL-GEN-FLM-LS-ALL</externallink>
+<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
