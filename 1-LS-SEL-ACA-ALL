@@ -30,6 +30,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]SÉRIES DE AÇÃO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C-LS-SRS-ACA-ALL</externallink>
+<thumbnail>https://i.ibb.co/W21n0Vq/ACAO-SRS-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/bJ9PjXR/ACAO-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]SÉRIES DE AÇÃO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que mostra histórias de protagonistas do bem contra antagonistas do mal, que resolvem suas disputas com o uso de força física.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]COLEÇÕES DE FILMES DE AÇÃO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/B-LS-COL-ACA-ALL</externallink>
 <thumbnail>https://i.ibb.co/XxGDKKt/ACAO-COL-ALL.png</thumbnail>
@@ -48,12 +66,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES DE AÇÃO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C-LS-SRS-ACA-ALL</externallink>
-<thumbnail>https://i.ibb.co/W21n0Vq/ACAO-SRS-ALL.png</thumbnail>
+<name>[COLOR white][B]COLEÇÕES ESPECIAIS DE AÇÃO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D-COL-ESP-ACA-ALL</externallink>
+<thumbnail>https://i.ibb.co/XxGDKKt/ACAO-COL-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/bJ9PjXR/ACAO-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]SÉRIES DE AÇÃO
+[B]COLEÇÕES ESPECIAIS DE AÇÃO
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que mostra histórias de protagonistas do bem contra antagonistas do mal, que resolvem suas disputas com o uso de força física.
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
@@ -62,7 +80,7 @@ Peça ao SUPORTE AO USUÁRIO
 [/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
