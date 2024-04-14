@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/1-LS-SEL-ANM-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/1-LS-SEL-ACA-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -12,14 +12,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]FILMES DE ANIMAÇÃO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/A-LS-FLM-ANM-ALL</externallink>
-<thumbnail>https://i.ibb.co/hfcSP01/ANIMACAO-FLM-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/4fVnTgg/ANIMACAO-FAN-ALL.png</fanart>
+<name>[COLOR white][B]FILMES DE AÇÃO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/A-LS-FLM-ACA-ALL</externallink>
+<thumbnail>https://i.ibb.co/y0Sm8Q9/ACAO-FILM-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/bJ9PjXR/ACAO-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]FILMES DE ANIMAÇÃO
+[B]FILMES DE AÇÃO
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que conta histórias da vida de cowboys, pistoleiros armados e Indios com revólveres e rifles da época do Velho Oeste dos Estados Unidos.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que mostra histórias de protagonistas do bem contra antagonistas do mal, que resolvem suas disputas com o uso de força física.
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
 Não encontrou o que queria ? 
 Peça ao SUPORTE AO USUÁRIO
@@ -30,14 +30,32 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES DE ANIMAÇÃO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/C-LS-SRS-ANM-ALL</externallink>
-<thumbnail>https://i.ibb.co/8g6yQf0/ANIMACAO-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/4fVnTgg/ANIMACAO-FAN-ALL.png</fanart>
+<name>[COLOR white][B]SÉRIES DE AÇÃO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C-LS-SRS-ACA-ALL</externallink>
+<thumbnail>https://i.ibb.co/W21n0Vq/ACAO-SRS-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/bJ9PjXR/ACAO-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]SÉRIES DE ANIMAÇÃO
+[B]SÉRIES DE AÇÃO
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que envolve caracteristicas próprias usando técnicas de desenho ou modelagem com recursos de computação gráfica dando alma e vida a algo sem movimento.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que mostra histórias de protagonistas do bem contra antagonistas do mal, que resolvem suas disputas com o uso de força física.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]COLEÇÕES DE FILMES DE AÇÃO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/B-LS-COL-ACA-ALL</externallink>
+<thumbnail>https://i.ibb.co/XxGDKKt/ACAO-COL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/bJ9PjXR/ACAO-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]COLEÇÕES DE FILMES DE AÇÃO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que mostra histórias de protagonistas do bem contra antagonistas do mal, que resolvem suas disputas com o uso de força física.
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
 Não encontrou o que queria ? 
 Peça ao SUPORTE AO USUÁRIO
@@ -48,50 +66,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE ANIMAÇÃO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/B-LS-COL-ANM-ALL</externallink>
-<thumbnail>https://i.ibb.co/jLwtMxT/ANIMACAO-COL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/4fVnTgg/ANIMACAO-FAN-ALL.png</fanart>
+<name>[COLOR white][B]COLEÇÕES ESPECIAIS DE AÇÃO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D-COL-ESP-ACA-ALL</externallink>
+<thumbnail>https://i.ibb.co/XxGDKKt/ACAO-COL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/bJ9PjXR/ACAO-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]COLEÇÕES DE FILMES DE ANIMAÇÃO
+[B]COLEÇÕES ESPECIAIS DE AÇÃO
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que envolve caracteristicas próprias usando técnicas de desenho ou modelagem com recursos de computação gráfica dando alma e vida a algo sem movimento.
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]COLEÇÕES ESPECIAIS DE ANIMAÇÃO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D-COL-ESP-ANM-ALL</externallink>
-<thumbnail>https://i.ibb.co/jLwtMxT/ANIMACAO-COL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/4fVnTgg/ANIMACAO-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]COLEÇÕES DE FILMES DE ANIMAÇÃO
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que envolve caracteristicas próprias usando técnicas de desenho ou modelagem com recursos de computação gráfica dando alma e vida a algo sem movimento.
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]LISTÃO FILMES DE ANIMAÇÃO - S.AV-3[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/9-SEL-G.D-ALL/main/A1B-FLM-GD-ANM-S3-ALL</externallink>
-<thumbnail>https://i.ibb.co/hfcSP01/ANIMACAO-FLM-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/4fVnTgg/ANIMACAO-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]FILMES DE ANIMAÇÃO
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que conta histórias da vida de cowboys, pistoleiros armados e Indios com revólveres e rifles da época do Velho Oeste dos Estados Unidos.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que mostra histórias de protagonistas do bem contra antagonistas do mal, que resolvem suas disputas com o uso de força física.
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
 Não encontrou o que queria ? 
 Peça ao SUPORTE AO USUÁRIO
@@ -103,7 +85,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/1-LS-SEL-ANM-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/1-LS-SEL-ACA-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 </channel>
@@ -113,7 +95,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/1-LS-SEL-ANM-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/1-LS-SEL-ACA-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
