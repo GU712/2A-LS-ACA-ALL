@@ -72,9 +72,11 @@ https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Mensageiro.da.M
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dHjCr2rGsWMCF0Bv4A5STzARa5j.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Passageiro da Chuva (1970)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/O.Passageiro.da.Chuva.(1970).mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3SzOtXux8DBBlKKAQwBJLAPeRBa.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Telefone (1977)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/LS-O.Telefone.1977.FHD.DUAL+LEG-LS.mkv
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/LS-FLM/LS-O.Telefone.1977.FHD.DUAL+LEG-LS.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8YcrGtDMtVJnsuQuKDVx8F1xDcU.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Vingador (1986)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/O.Vingador.(1986).mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6c5Nz4FX2VNdiDsj8iip0aNGW6I.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Segredos da Cosa Nostra (1972)[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/LS-CosaNostra.1972.FHD.DUAL+LEG-LS.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s94EE6jtwL4YL7IjmI6ax2lFJB1.jpg" group-title="[COLOR white][B]Charles Bronson -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Visitantes na Noite (1970)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/Charles.Bronson/Visitantes.na.Noite.(1970).mp4
 
@@ -215,6 +217,7 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 
 
