@@ -1,106 +1,110 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-		
-<item>		
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Arcanjo Renegado[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=iEzf3p6F0wY</link>		
-<thumbnail>https://www.themoviedb.org/t/p/original/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/2p8nTAGBco5d2v6hqFBWN4OKPba.jpg</fanart>		
-<info>Assista ao trailer</info>		
-<genre>AÇÃO</genre> 		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-TORRENTS		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Arcanjo Renegado (2020) - T01 - HD DUB[/B][/COLOR]</title>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:K7GKM2MED3WIP45DYLW57Z6P5KU2UD7G</link>		
-<thumbnail>https://www.themoviedb.org/t/p/original/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/2p8nTAGBco5d2v6hqFBWN4OKPba.jpg</fanart>		
-<info>Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança.</info>		
-<genre>AÇÃO</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Arcanjo Renegado (2020) - T01 - FHD DUB[/B][/COLOR]</title>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFK7GQYPEO22EWAINNDLCI2NB7HP4ZJI</link>		
-<thumbnail>https://www.themoviedb.org/t/p/original/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/2p8nTAGBco5d2v6hqFBWN4OKPba.jpg</fanart>		
-<info>Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança.</info>		
-<genre>AÇÃO</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Arcanjo Renegado (2022) - T02 - HD DUAL[/B][/COLOR]</title>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48cce5bc2b04a6c8a7e5139b51ddc6f78d64c77e</link>		
-<thumbnail>https://a.imagem.app/AdLAAG.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/2p8nTAGBco5d2v6hqFBWN4OKPba.jpg</fanart>		
-<info>Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança.</info>		
-<genre>AÇÃO</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-SERVER LS		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Arcanjo Renegado (2020) - T01 - HD DUB[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Arcanjo Renegado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Arcanjo Renegado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Arcanjo Renegado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E04.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Arcanjo Renegado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Arcanjo Renegado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E06.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Arcanjo Renegado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E07.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Arcanjo Renegado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E08.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Arcanjo Renegado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E09.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Arcanjo Renegado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E10.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Arcanjo Renegado [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/2p8nTAGBco5d2v6hqFBWN4OKPba.jpg</fanart>		
-<info>Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança.</info>		
-<genre>AÇÃO</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Arcanjo Renegado (2022) - T02 - HD DUAL[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 04 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T02/LS-T02E01.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Arcanjo Renegado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T02/LS-T02E02.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Arcanjo Renegado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T02/LS-T02E03.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Arcanjo Renegado [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T02/LS-T02E04.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Arcanjo Renegado [/B][/COLOR]</link>		
-		
-<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>		
-<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>		
-<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>		
-		
-<thumbnail>https://a.imagem.app/AdLAAG.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/2p8nTAGBco5d2v6hqFBWN4OKPba.jpg</fanart>		
-<info>Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança.</info>		
-<genre>AÇÃO</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (2020) 10 EPs - FHD HD DUB DUAL+LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Episódio 01[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E01.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Episódio 02[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E02.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Episódio 03[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E03.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Episódio 04[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E04.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Episódio 05[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E05.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Episódio 06[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E06.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Episódio 07[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E07.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Episódio 08[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E08.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Episódio 09[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E09.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Episódio 10[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T01/LS-T01E010.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 02 (2022) 10 EPs - FHD HD DUB DUAL+LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/5pENOolBDpGtGI9MqIIiFj2Dtwt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Episódio 01[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T02/LS-T02E01.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/5pENOolBDpGtGI9MqIIiFj2Dtwt.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Episódio 02[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T02/LS-T02E02.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/5pENOolBDpGtGI9MqIIiFj2Dtwt.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Episódio 03[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T02/LS-T02E03.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/5pENOolBDpGtGI9MqIIiFj2Dtwt.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Episódio 04[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T02/LS-T02E04.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/5pENOolBDpGtGI9MqIIiFj2Dtwt.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Episódio 05[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T02/LS-T02E05.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/5pENOolBDpGtGI9MqIIiFj2Dtwt.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Episódio 06[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T02/LS-T02E06.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/5pENOolBDpGtGI9MqIIiFj2Dtwt.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Episódio 07[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T02/LS-T02E07.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/5pENOolBDpGtGI9MqIIiFj2Dtwt.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Episódio 08[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T02/LS-T02E08.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/5pENOolBDpGtGI9MqIIiFj2Dtwt.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Episódio 09[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T02/LS-T02E09.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/5pENOolBDpGtGI9MqIIiFj2Dtwt.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Episódio 10[/B][/COLOR]</title>
+<link><link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Arcanjo.Renegado/T02/LS-T02E010.mp4</link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/5pENOolBDpGtGI9MqIIiFj2Dtwt.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -121,8 +125,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
@@ -130,5 +133,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-		
