@@ -12,6 +12,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Carga Explosiva (Filmes - Série)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D01-SEL-Carga.Explosiva-ALL</externallink>
+<thumbnail>https://i.ibb.co/Z2XSMc3/COL-CARGEXPLO-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/hcQpvvB/COL-CARGEXPLO-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o especial: 
+[B]Carga Explosiva
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Bruce Lee (Filmes - Série)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D1-COL-Bruce.Lee-ALL</externallink>
 <thumbnail>https://i.ibb.co/sq3YFvm/COL-B-LEE-ICON-ALL-ALL.png</thumbnail>
@@ -66,7 +84,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Robocop (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Robocop (Filmes - Série)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D4-COL-Robocop-ALL</externallink>
 <thumbnail>https://i.ibb.co/0ZJNhX7/COL-ROBOCOP-ICON-ALL-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/N9VCcKj/COL-ROBOCOP-FAN-ALL.png</fanart>
