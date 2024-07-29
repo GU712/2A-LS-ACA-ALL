@@ -28,18 +28,19 @@ Peça ao SUPORTE AO USUÁRIO
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Karatê Kid (Séries)[/B][/COLOR]</name>
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cobra Kai (2018-2024) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D03B-SRS-Karate-Kid-ALL</externallink>
-<thumbnail>https://i.ibb.co/BrMgBry/COL-KARATKID-ICON-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/YBjhL5Q/COL-KARATKID-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção de séries: 
-[B]Karatê Kid
+<thumbnail>https://image.tmdb.org/t/p/original/s8JYJ6Z1lIBrkh8rsIOrCtO0cT4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xWmDBmsabRm6IE5FcfU9CTQCPtl.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Cobra Kai
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2024
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 60 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Nesta aclamada série que é continuação dos filmes Karatê Kid, Daniel e Johnny retomam a rivalidade dos tempos de escola.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -173,5 +174,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
