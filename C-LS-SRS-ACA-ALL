@@ -355,6 +355,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Magnum P.I. (2018-2023) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/refs/heads/main/C19-SRS-Magnum.P.I.2018-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/wDdiwHqmYN24dXfN7zzDd275NDF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Magnum P.I.
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 96 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um ex-integrante da marinha americana retorna do Afeganistão e usa suas habilidades de militar para trabalhar como um investigador particular no Havaí.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Missão: Impossível (1966-1972) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D3B-SRS-M.Impossivel-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/bAnCcwe70IXHRwUgsRJT4ZlQ47o.jpg</thumbnail>
