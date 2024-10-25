@@ -1,12 +1,13 @@
 <channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C-LS-SRS-ACA-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<channel>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C-LS-SRS-ACA-ALL</externallink>			
+<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>				
 </channel>
-</channels>
+</channels>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -16,7 +17,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]24 Horas (2001-2014) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]24 Horas (2001-2014) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C002-SRS-24.Horas.2001-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/9I4ktOf2MSIHXo8FcmUVbwiBMV5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/kontV67LzDYqGXWKStWeZIrFYxv.jpg</fanart>
@@ -42,7 +43,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Nova Super Máquina (2008) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]A Nova Super Máquina (2008) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C20-A.Nova.Super.Maquina-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/63Sp9y9X0P9LTMZVCeg96uAYJeW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/vh2ZS4Aome8klUyJH5whPnZbSZe.jpg</fanart>
@@ -52,26 +53,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2008
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 17 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O filho de Michael Knight, que utilizando o K.I.T.T., o carro mais descolado de todos os tempos, luta contra o crime. A clássica série de velocidade e ação está de volta com mais adrenalina do que nunca. 
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]A Super Máquina (1982-1985) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C001-SRS-A.Super.Maquina.1982-OLD-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]A Super Máquina
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1982 a 1985
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 88 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Depois de ter sido baleado no rosto, Michael Knight praticamente renasceu e decidiu dedicar
- sua vida em favor da justiça.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O filho de Michael Knight, que utilizando o K.I.T.T., o carro mais descolado de todos os 
+tempos, luta contra o crime. A clássica série de velocidade e ação está de volta com mais adrenalina do que nunca. 
 [COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -82,7 +65,32 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]As Panteras (1976-1980) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]A Super Máquina (1982-1985) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C001-SRS-A.Super.Maquina.1982-OLD-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Super Máquina
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1982 a 1985
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 88 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Depois de ter sido baleado no rosto, Michael Knight praticamente renasceu e decidiu 
+dedicar sua vida em favor da justiça.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]As Panteras (1976-1980) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C9-SRS-As.Panteras-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/hTy1z8KR5NhFBUAt65Br9TWyuod.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/brNDL0tNemrDcLwTPWYhAOvMuu6.jpg</fanart>
@@ -92,7 +100,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1976 a 1980
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 110  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Lindas, inteligentes e ultrassofisticadas, as Charlie's Angels são tudo o que um homem poderia sonhar... e muito mais do que jamais poderiam lidar! Recebendo suas ordens pelo viva-voz de seu chefe nunca visto, Charlie.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Lindas, inteligentes e ultrassofisticadas, as Charlie's Angels são tudo o que um homem 
+poderia sonhar... e muito mais do que jamais poderiam lidar! Recebendo suas ordens pelo viva-voz de seu chefe nunca visto, Charlie.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -100,7 +112,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Águia de Fogo (1984-1987) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Águia de Fogo (1984-1987) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C6-SRS-Aguia.de.Fogo-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/uSlnBIJsCkfXcHP7P9cOzmBIk4t.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
@@ -110,7 +122,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1984 a 1987
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 70 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ao retornar da Líbia, após derrotar o criador do Águia de Fogo, Hawke e Dominic passam a usar o helicóptero como uma espécie de supermáquina alada para combater o crime.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ao retornar da Líbia, após derrotar o criador do Águia de Fogo, Hawke e Dominic passam a 
+usar o helicóptero como uma espécie de supermáquina alada para combater o crime.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -118,7 +134,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Arcanjo Renegado (2020-2022) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Arcanjo Renegado (2020-2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C10-SRS-Arcanjo.Renegado.2020-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/czlKxUYrduRzBF5eQsphqSXrjMb.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart>
@@ -128,7 +144,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020 a 2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 20 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma 
+operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -140,7 +160,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Bruce Lee: A Lenda (2008-2009) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Bruce Lee: A Lenda (2008-2009) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D1B-SRS-Bruce.Lee-ALL</externallink>
 <thumbnail>https://i.ibb.co/FKjPZtn/COL-B-LEE-ICON-SRS-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/QMyhJ5n/COL-B-LEE-FAN-ALL.png</fanart>
@@ -150,6 +170,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 Não encontrou o que queria ? 
+Avise o SUPORTE AO USUÁRIO.
+[COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -162,7 +185,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Carga Explosiva: A Série (2012-2014) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR white][B]Carga Explosiva: A Série (2012-2014) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C8-SRS-Carga.Explosiva-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/23ESZ6mTcJw8zHOkW4G38uIz147.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cF7uwwwbrqrOmh49N5E2EhpOd0T.jpg</fanart>
@@ -172,7 +195,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2012 a 2014
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 24 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Frank Martin, um freelancer profissional que topa fazer qualquer tipo de entrega, sem perguntas. Ele vive sob três regras inquebráveis... que ele quebra com uma certa frequência.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Frank Martin, um freelancer profissional que topa fazer qualquer tipo de entrega, sem 
+perguntas. Ele vive sob três regras inquebráveis... que ele quebra com uma certa frequência.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -180,7 +207,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chips (1977-1982) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Chips (1977-1982) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C7-SRS-CHiPs-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/s7WnGXPVShynQg6bOds2BGFqhTK.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/r3Lre4EQP1rJ0T4rXv6x3sQxBHE.jpg</fanart>
@@ -190,7 +217,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1977 a 1982
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 139  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As aventuras de dois patrulheiros rodoviários em motocicletas na Califórnia. A sigla CHiP significa California Highway Patrol, ou Polícia Rodoviária da Califórnia.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As aventuras de dois patrulheiros rodoviários em motocicletas na Califórnia. 
+A sigla CHiP significa California Highway Patrol, ou Polícia Rodoviária da Califórnia.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -198,7 +229,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chuck Norris: O Homem da Lei (1993-2001) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Chuck Norris: O Homem da Lei (1993-2001) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C11-SRS-Chuck.Norris.O.Homem.da.Lei-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/pdUiAWblU07uaOTLFk1wdtGUisz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ip2jf4xVavxwVcffRRrW5vcIZ2Z.jpg</fanart>
@@ -208,7 +239,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1993 a 2001
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]09 TEMPS - 203  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Cordell Walker, um 'Texas Ranger', e lida com os malfeitores à moda antiga. Trivette, seu parceiro, é um ex-jogador de futebol para o Dallas Cowboys, e usa os métodos mais modernos de aproximação para resolver crimes.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Cordell Walker, um 'Texas Ranger', e lida com os malfeitores à moda antiga. Trivette, 
+seu parceiro, é um ex-jogador de futebol para o Dallas Cowboys, e usa os métodos mais modernos de aproximação para resolver crimes.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -216,7 +251,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cobra Kai (2018-2024) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR white][B]Cobra Kai (2018-2024) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D03B-SRS-Karate-Kid-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/s8JYJ6Z1lIBrkh8rsIOrCtO0cT4.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xWmDBmsabRm6IE5FcfU9CTQCPtl.jpg</fanart>
@@ -226,7 +261,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2024
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 60 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Nesta aclamada série que é continuação dos filmes Karatê Kid, Daniel e Johnny retomam a rivalidade dos tempos de escola.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Nesta aclamada série que é continuação dos filmes Karatê Kid, Daniel e Johnny retomam a 
+rivalidade dos tempos de escola.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -237,7 +276,7 @@ LETRA "D"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Dama de Ouro (1985-1986) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Dama de Ouro (1985-1986) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C15-SRS-Dama.de.Ouro-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/vBdxtBUPS4wYxvOIew21OuAH0Ny.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iICGcK7JIlCpDjso8XR2M2fe2cb.jpg</fanart>
@@ -247,7 +286,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1985 a 1986
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 13 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Katy Mahoney é uma experiente policial da cidade de Chicago que enfrenta criminosos perigosos com muita força e coragem. Munida de uma Magnum 357, Mahoney abusa da violência e é implacável sobretudo com os tipos machões.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Katy Mahoney é uma experiente policial da cidade de Chicago que enfrenta criminosos 
+perigosos com muita força e coragem. Munida de uma Magnum 357, Mahoney abusa da violência e é implacável sobretudo com os tipos machões.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -255,7 +298,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Duro na Queda (1981-1985) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Duro na Queda (1981-1985) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C13-SRS-Duro.na.Queda-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/tPy5fmJZ2AHJKJLq8uabIxhbYWn.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1XEusS8irQrc060sfFsBPosnPF5.jpg</fanart>
@@ -265,7 +308,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1981 a 1985
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 113 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As aventuras de um dublê de cinema que brilha como caçador de recompensas quando o trabalho no cinema é lento.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As aventuras de um dublê de cinema que brilha como caçador de recompensas quando o 
+trabalho no cinema é lento.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -277,7 +324,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Esquadrão Classe A (1983-1986) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Esquadrão Classe A (1983-1986) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C5-SRS-Team.A-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/h5eUcGzuVwiz6AHRFOx4MlVALqg.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vmsZmDo4LNqUN3791tTGq2DdRWQ.jpg</fanart>
@@ -287,7 +334,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1983 a 1986
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 98 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quatro veteranos da guerra do Vietnã são acusados por um crime que não cometeram e não conseguem mais provar sua inocência, já que os verdadeiros culpados estão mortos. E passam a viver escondidos como justiceiros, ajudando a pessoas que precisam de proteção.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quatro veteranos da guerra do Vietnã são acusados por um crime que não cometeram e não 
+conseguem mais provar sua inocência, já que os verdadeiros culpados estão mortos.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -295,7 +346,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Estação 19 (2018-2022) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR white][B]Estação 19 (2018-2022) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C4-SRS-Estasao.19-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/pYWGrFacqPLjo2Kdt5p0XrKsCay.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7Cvv4KdtI00xNti4Dm4RVJDL9qU.jpg</fanart>
@@ -305,7 +356,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 67 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um grupo de heroicos bombeiros no Corpo de Bombeiros de Seattle 19 - do capitão ao mais novo recruta - arrisca suas vidas e corações tanto durante quanto depois do serviço
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um grupo de heroicos bombeiros no Corpo de Bombeiros de Seattle 19 - do capitão ao mais 
+novo recruta - arrisca suas vidas e corações tanto durante quanto depois do serviço
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -341,7 +396,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]La Femme Nikita (1997-2001) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR white][B]La Femme Nikita (1997-2001) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C8-SRS-Nikita.1997-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/yTTc748gE9A3J157CdLfdG5Zoyr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3y5fRA5pCgasKk0U7y1tkmoUuLv.jpg</fanart>
@@ -351,7 +406,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1997 a 2001
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 96 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Nikita é uma viciada em drogas, e uma deliquente juvenil. Ela é presa e sentenciada a prisão perpétua. Então, é recrutada por uma organização secreta governamental e transformada em uma assassina. 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Nikita é uma viciada em drogas, e uma deliquente juvenil. Ela é presa e sentenciada a 
+prisão perpétua. Então, é recrutada por uma organização secreta governamental e transformada em uma assassina. 
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -363,7 +422,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Magnum P.I. (2018-2023) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR white][B]Magnum P.I. (2018-2023) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/refs/heads/main/C19-SRS-Magnum.P.I.2018-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/wDdiwHqmYN24dXfN7zzDd275NDF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
@@ -373,7 +432,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2023
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 96 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um ex-integrante da marinha americana retorna do Afeganistão e usa suas habilidades de militar para trabalhar como um investigador particular no Havaí.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um ex-integrante da marinha americana retorna do Afeganistão e usa suas habilidades de 
+militar para trabalhar como um investigador particular no Havaí.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -381,7 +444,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Missão: Impossível (1966-1972) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR white][B]Missão: Impossível (1966-1972) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D3B-SRS-M.Impossivel-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/bAnCcwe70IXHRwUgsRJT4ZlQ47o.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/djaw0GHKFdscur3MZlH6nTjeSGk.jpg</fanart>
@@ -391,7 +454,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1972
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 171 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O agente Jim Phelps lidera a Impossible Missions Force (IMF), uma agência ultra-secreta, e precisa escolher a equipe que vai trabalhar a cada missão.Sempre disfarçado e com a ajuda de recursos tecnológicos, ele vai enfrentar diversos perigos para desvendar crimes e prender bandidos.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O agente Jim Phelps lidera a Impossible Missions Force (IMF), uma agência ultra-secreta, 
+e precisa escolher a equipe que vai trabalhar a cada missão.Sempre disfarçado e com a ajuda de recursos tecnológicos. 
+
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -399,7 +467,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS5[COLOR yellow] -> [COLOR white]Moto Laser (1985) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS5[COLOR yellow] -> [COLOR white]Moto Laser (1985) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C3-SRS-Moto.Laser.1985-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/3Pe373taXKu538xrVQI0fJMRaZD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/41v67qynLtXWJWd6UyZTir5rVEA.jpg</fanart>
@@ -409,7 +477,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1985
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 13 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jesse Mach, perde o seu melhor amigo e é ferido no joelho, impedido de continuar pilotando motos. é transferido para Relações Públicas e passaria o resto da sua carreira examinando pilhas de papéis se Norman Tuttle, um engenheiro do Governo, não o tivesse escolhido para fazer parte do projeto secreto Moto Laser.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jesse Mach, perde o seu melhor amigo, impedido de continuar pilotando motos. Mas 
+Norman Tuttle, um engenheiro do Governo, o escolhe para fazer parte do projeto secreto Moto Laser.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -425,7 +497,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Agente da U.N.C.L.E. (1964-1967) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR white][B]O Agente da U.N.C.L.E. (1964-1967) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C14-SRS-O.Agente.da.Uncle-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/rhodITgyqIuLIgIcdCDd7DkbZP9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8h5ux2XmtevHqxJj6vRE2Zr9a0E.jpg</fanart>
@@ -435,7 +507,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1964 a 1967
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 105 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os agentes Napoleon Solo e Illya Kuryakin trabalham para um serviço secreto de inteligência sob os auspícios da ONU.Juntos, eles operam a partir de uma base secreta sob as ruas da cidade de Nova York, e acessam através de vários negócios secretos.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os agentes Napoleon Solo e Illya Kuryakin trabalham para um serviço secreto de 
+inteligência sob os auspícios da ONU.Juntos, eles operam a partir de uma base secreta sob as ruas da cidade de Nova York.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -443,7 +519,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Mestre (1984)  - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]O Mestre (1984)  - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C19-SRS-O.Mestre.1984-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/cWLOrJYSv14DIcSjcjLCQKiKLSz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/diq2uLSDIIilNXX5iRpwHFrmRxd.jpg</fanart>
@@ -453,7 +529,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1984
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 13 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um velho mestre ninja e seu jovem aluno viajam em uma van personalizada ajudando pessoas necessitadas ao longo do caminho.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um velho mestre ninja e seu jovem aluno viajam em uma van personalizada ajudando pessoas 
+necessitadas ao longo do caminho.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -473,7 +553,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Reacher (2022-2023) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Reacher (2022-2023) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C12-SRS-Reacher-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/oVw8KUQn1RSDd8KmknpvIc34JtY.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/m5CggjJuFc08QCuKz54znHP6spJ.jpg</fanart>
@@ -483,7 +563,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022 a 2023
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 16 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando o policial militar aposentado Jack Reacher é preso por um assassinato que não cometeu, ele se vê no meio de uma trama mortal cheia de policiais corruptos, empresários obscuros e políticos conspiradores.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando o policial militar aposentado Jack Reacher é preso por um assassinato que não 
+cometeu, ele se vê no meio de uma trama mortal cheia de policiais corruptos, empresários obscuros e políticos conspiradores.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -491,7 +575,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]RoboCop: A Série (1994) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]RoboCop: A Série (1994) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D4B1-SRS-Robocop.A.Serie-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/MZ1W6qqMKoWE6iVIOAJvp41tFJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ayfwBr79hFnDuff15mm59ZRbU0W.jpg</fanart>
@@ -501,7 +585,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1994
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 23 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A OCP convoca as forças armadas para intimidar os residentes de fora da cidade, sob o pretexto de que eles estarão contribuindo sua parte para reduzir a criminalidade. 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A OCP convoca as forças armadas para intimidar os residentes de fora da cidade, sob o 
+pretexto de que eles estarão contribuindo sua parte para reduzir a criminalidade. 
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -513,7 +601,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Starsky e Hutch - Justiça em Dobro (1975-1978) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Starsky e Hutch - Justiça em Dobro (1975-1978) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C16-SRS-Starsky.Hutch-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/3SqcpDwdhFc1vyEa5nIysybCKpM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cZJhpP6jcUoRj27MUvfpwFNScly.jpg</fanart>
@@ -523,14 +611,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1975 a 1978
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 92 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Eles não são nenhuma dupla de super-heróis que combatem o crime nas ruas de Los Angeles. Para os detetives Dave Starsky e Ken Hutch, trabalhar em dupla significa diminuir os riscos durante o trabalho.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Eles não são nenhuma dupla de super-heróis que combatem o crime nas ruas de Los Angeles. 
+Para os detetives Dave Starsky e Ken Hutch, trabalhar em dupla significa diminuir os riscos durante o trabalho.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]S.W.A.T. (1975) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]S.W.A.T. (1975) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C18-SRS-SWAT-OLD-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/u3DbvKamBWkchckwioak3PvN8j1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/subk3omLR8KaGaRYGMfJcvb8WDN.jpg</fanart>
@@ -540,7 +633,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1975
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 38 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando você está com problemas, você chama a polícia. Quando a polícia está em apuros, eles chamam a S.W.A.T.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando você está com problemas, você chama a polícia. Quando a polícia está em apuros, 
+eles chamam a S.W.A.T.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -548,7 +645,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]S.W.A.T. - Força de Intervenção (2017-2022) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]S.W.A.T. - Força de Intervenção (2017-2022) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C17-SRS-SWAT-2017-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/byFarhK0Wxmf9mSOOR9ZQ31sShJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lZTPH9lwEblSHzHkhxqZD7JYtBq.jpg</fanart>
@@ -558,7 +655,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2017 a 2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 114 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dividido entre a corporação e as ruas, o tenente Daniel Harrelson encara a missão de liderar uma unidade do Esquadrão de Armas e Táticas Especiais na comunidade onde cresceu.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dividido entre a corporação e as ruas, o tenente Daniel Harrelson encara a missão de 
+liderar uma unidade do Esquadrão de Armas e Táticas Especiais na comunidade onde cresceu.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -578,7 +679,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vigilante Rodoviário (1962) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Vigilante Rodoviário (1962) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C38-SRS-Vigilante.Rodoviario-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/jEgC5T5cO3NrST9s9tWXKioImd0.jpg</thumbnail>
 <fanart>https://tinyurl.com/vigl-rodhttps://tinyurl.com/vigl-rod
@@ -588,7 +689,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1962
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 38 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O heroico Inspetor Carlos e seu fiel cão Lobo combatendo o crime. O personagem principal é membro da Policia Rodoviária e a história é ambientada nas estradas paulistas.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O heroico Inspetor Carlos e seu fiel cão Lobo combatendo o crime. O personagem principal 
+é membro da Policia Rodoviária e a história é ambientada nas estradas paulistas.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -624,7 +729,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
+<name>[COLOR orange][B]MENU DE RETORNO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C-LS-SRS-ACA-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
@@ -635,7 +740,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE AÇÃO[/B][/COLOR]</name>
+<name>[COLOR white][B]VOLTAR AO MENU DE AÇÃO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/1-LS-SEL-ACA-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
@@ -646,7 +751,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
+<name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2A-SEL-GEN-FLM-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
@@ -657,7 +762,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
+<name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
@@ -668,7 +773,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
+<name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
@@ -679,7 +784,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
+<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
@@ -690,7 +795,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
+<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
@@ -701,7 +806,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
+<name>[COLOR white][B]VOLTAR AO MENU DE FILMES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
@@ -712,7 +817,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
+<name>[COLOR white][B]VOLTAR AO MENU GERAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
