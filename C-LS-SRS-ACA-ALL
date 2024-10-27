@@ -2,7 +2,7 @@
 <channel>				
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C-LS-SRS-ACA-ALL</externallink>			
-<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>				
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA 
 E DIVIRTA-SE[/B]</info>				
@@ -17,7 +17,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]24 Horas (2001-2014) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]24 Horas (2001-2014) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C002-SRS-24.Horas.2001-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/9I4ktOf2MSIHXo8FcmUVbwiBMV5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/kontV67LzDYqGXWKStWeZIrFYxv.jpg</fanart>
@@ -43,18 +43,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Nova Super Máquina (2008) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C20-A.Nova.Super.Maquina-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/63Sp9y9X0P9LTMZVCeg96uAYJeW.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/vh2ZS4Aome8klUyJH5whPnZbSZe.jpg</fanart>
+<name>[COLOR white][B]A Super Máquina (1982-1985) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C001-SRS-A.Super.Maquina.1982-OLD-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72PULslmSz2BQUEsrwOGHrryTa2.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]A Nova Super Máquina
+[B]A Super Máquina
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2008
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1982 a 1985
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 17 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O filho de Michael Knight, que utilizando o K.I.T.T., o carro mais descolado de todos os 
-tempos, luta contra o crime. A clássica série de velocidade e ação está de volta com mais adrenalina do que nunca. 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 88 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Depois de ter sido baleado no rosto, Michael Knight praticamente renasceu e decidiu 
+dedicar sua vida em favor da justiça.
 [COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -77,9 +77,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 88 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Depois de ter sido baleado no rosto, Michael Knight praticamente renasceu e decidiu 
 dedicar sua vida em favor da justiça.
-[COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
 [COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -456,7 +453,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 171 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O agente Jim Phelps lidera a Impossible Missions Force (IMF), uma agência ultra-secreta, 
 e precisa escolher a equipe que vai trabalhar a cada missão.Sempre disfarçado e com a ajuda de recursos tecnológicos. 
-
 [COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -467,7 +463,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Moto Laser (1985) - COMPLETA[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</name>
+<name>[COLOR white][B]Moto Laser (1985) - COMPLETA[COLOR yellow] -> [COLOR orange]LS4[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C003-SRS-Moto.Laser.1985-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/3Pe373taXKu538xrVQI0fJMRaZD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/41v67qynLtXWJWd6UyZTir5rVEA.jpg</fanart>
@@ -477,11 +473,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1985
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 13 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jesse Mach, perde o seu melhor amigo e é ferido no joelho, impedido de continuar pilotando motos. é transferido para Relações Públicas e passaria o resto da sua carreira examinando pilhas de papéis se Norman Tuttle, um engenheiro do Governo, não o tivesse escolhido para fazer parte do projeto secreto Moto Laser.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jesse Mach, perde o seu melhor amigo e é ferido no joelho. 
+E transferido para Relações Públicas.Norman Tuttle, um engenheiro do Governo, o escolhe para fazer parte do projeto secreto Moto Laser.
 [COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
