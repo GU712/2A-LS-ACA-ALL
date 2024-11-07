@@ -1,7 +1,7 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D05-COL-Carga.Explosiva-ALL</externallink>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D05-SEL-Carga.Explosiva-ALL</externallink>
 <thumbnail>https://i.ibb.co/266Q0jp/SEL-ITEM-ESPC-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA 
@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<item><title>[COLOR orange][B]Carga Explosiva (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<name>[COLOR white][B]Carga Explosiva (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D05A-FLM-Carga.Explosiva-ALL</externallink>
 <thumbnail>https://i.ibb.co/k5j9bv5/ESP-CARGEXPLO-FLM.png</thumbnail>
 <fanart>https://i.ibb.co/sv7dzJm/ESP-CARGEXPLO-FAN.png</fanart>
@@ -32,7 +32,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<item><title>[COLOR orange][B]Carga Explosiva (Série)[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<name>[COLOR white][B]Carga Explosiva (Série)[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D05B1-SRS-Carga.Explosiva-ALL</externallink>
 <thumbnail>https://i.ibb.co/2stQbh9/ESP-CARGEXPLO-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/sv7dzJm/ESP-CARGEXPLO-FAN.png</fanart>
@@ -52,7 +52,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D05-COL-Carga.Explosiva-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D05-SEL-Carga.Explosiva-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
@@ -62,7 +62,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D05-COL-Carga.Explosiva-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D05-SEL-Carga.Explosiva-ALL</externallink>
 <thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
