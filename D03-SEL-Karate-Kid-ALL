@@ -1,9 +1,9 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D03-COL-Karate-Kid-ALL</externallink>
-<thumbnail>https://i.ibb.co/K602hb3/SEL-ITEM-COL-ICON.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<thumbnail>https://i.ibb.co/266Q0jp/SEL-ITEM-ESPC-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>	
 <info>FAÇA SUA ESCOLHA 
 E DIVIRTA-SE </info>
 </channel>
@@ -15,8 +15,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Karatê Kid (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D03A-FLM-Karate-Kid-ALL</externallink>
-<thumbnail>https://i.ibb.co/TTzw0WS/COL-KARATKID-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/X2WBf61/COL-KARATKID-FAN.png</fanart>
+<thumbnail>https://i.ibb.co/4j20w1f/ESP-KARATKID-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/QNxjgZ9/ESP-KARATKID-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de filmes: 
 [B]Karatê Kid
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -32,19 +32,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Cobra Kai (2018-2024) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D03B-SRS-Karate-Kid-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/s8JYJ6Z1lIBrkh8rsIOrCtO0cT4.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/xWmDBmsabRm6IE5FcfU9CTQCPtl.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Cobra Kai
+<name>[COLOR white][B]Karatê Kid (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D03B1-SRS-Cobra.Kai.2018-ALL</externallink>
+<thumbnail>https://i.ibb.co/3ddfrJ6/ESP-KARATKID-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/QNxjgZ9/ESP-KARATKID-FAN.png</fanart>
+<info>[COLOR white]Conheça a seção de Séries: 
+[B]Karatê Kid
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2024
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 60 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Nesta aclamada série que é continuação dos filmes Karatê Kid, Daniel e Johnny retomam 
-a rivalidade dos tempos de escola.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.
 [/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
