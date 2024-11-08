@@ -1,428 +1,863 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-			
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>	
 <title>[COLOR orange][B]Águia de Fogo[/B][/COLOR]</title>	
 <link>NOLINK</link>	
 <thumbnail>https://www.themoviedb.org/t/p/original/uSlnBIJsCkfXcHP7P9cOzmBIk4t.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Águia de Fogo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1984 a 1987
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 70 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Ao retornar da Líbia, após derrotar o criador do Águia de Fogo, Hawke e Dominic passam 
+a usar o helicóptero como uma espécie de supermáquina alada para combater o crime.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (1984) 21 EPs - SD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]A Sombra do Falcão[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E01-02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E01-02[COLOR yellow] -> [COLOR white]A Sombra do Falcão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E01-02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/DOBLE/01-02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Golpe de Traição[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Golpe de Traição[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Ecos do Passado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Ecos do Passado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Testes Durante a Noite leg[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Testes Durante a Noite leg[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]O Inimigo Oculto[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Inimigo Oculto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]O Cérebro da Máquina[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Cérebro da Máquina[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Como Prender uma Águia[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Como Prender uma Águia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]O Fantasma de Moffet[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Fantasma de Moffet[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]A Verdade sobre Holly[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]A Verdade sobre Holly[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Pecados do Passado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Pecados do Passado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Anjo Caido[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Anjo Caido[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Vôo 093 em Perigo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Vôo 093 em Perigo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Loki o Mensageiro do Mal[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Loki o Mensageiro do Mal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Uma Vez Herói...[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Uma Vez Herói...[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]A Grana de Santini[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E16.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]A Grana de Santini[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E16.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]O Piloto[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E17.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]O Piloto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E17.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]Guerra Bacteriológica[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E18.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Guerra Bacteriológica[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E18.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Um Sonho Americano [/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E19.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Um Sonho Americano [COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E19.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]H.M.Winant][/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E20.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]H.M.Winant][COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E20.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]Luta Pela Liberdade [/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo/T01/LS-T01E21.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rDvfG8XrR59eyb7h1TIzvAqHQQp.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Luta Pela Liberdade [COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Aguia.de.Fogo.1984/T01/LS-T01E21.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 02 (1984) 22 EPs - SD DUB[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 02 (1984) 22 EPs - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Doce Fuga[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E01.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Doce Fuga[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E01.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]Chuva de Fogo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E02.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Chuva de Fogo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E02.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]O Fantasma de Moffett[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E03.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]O Fantasma de Moffett[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E03.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]A Verdade Sobre Holly[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E04.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]A Verdade Sobre Holly[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E04.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]Caçado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E05.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Caçado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E05.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]Pecados do Passado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E06.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Pecados do Passado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E06.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]O Anjo Caído[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E07.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Anjo Caído[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E07.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]HX1[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E08.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]HX1[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E08.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]Voo 093 em Perigo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E09.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Voo 093 em Perigo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E09.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]Uma Vez Heroi[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E10.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Uma Vez Heroi[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E10.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]VItima Ao Acaso[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E11.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]VItima Ao Acaso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E11.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]Guerra Bacteriologica[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E12.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Guerra Bacteriologica[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E12.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR white]Um Sonho Americano[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E13.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Um Sonho Americano[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E13.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]Luc O Mensageiro do Mal[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E14.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Luc O Mensageiro do Mal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E14.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]Os Milhoes de Santini[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E15.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Os Milhoes de Santini[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E15.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]Raptado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E16.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]Raptado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E16.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E17[COLOR yellow] -> [COLOR white]O Piloto Natural[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E17.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]O Piloto Natural[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E17.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E18[COLOR yellow] -> [COLOR white]A Estrela do Rock[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E18.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]A Estrela do Rock[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E18.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E19[COLOR yellow] -> [COLOR white]O Anjo Caido[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E19.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white]O Anjo Caido[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E19.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E20[COLOR yellow] -> [COLOR white]O Piloto[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E20.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]O Piloto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E20.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E21[COLOR yellow] -> [COLOR white]A Erupção[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E21.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white]A Erupção[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E21.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E22[COLOR yellow] -> [COLOR white]Luta Pela Liberdade[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T02/LS-T02E22.avi</link>
-<thumbnail>https://image.tmdb.org/t/p/original/A4tvNeYcFyCU98RwIG1Y3kgiGVO.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white]Luta Pela Liberdade[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T02/LS-T02E22.avi</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 03 (1985) 22 EPs - SD LEG[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 03 (1985) 22 EPs - SD LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/03.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]A Cornucópia da Abundância[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E01.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]A Cornucópia da Abundância[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E01.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]Lobo aéreo II[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E02.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Lobo aéreo II[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E02.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]E uma criança liderará[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E03.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]E uma criança liderará[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E03.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]Cartomante[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E04.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Cartomante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E04.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]Cruzamento[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E05.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Cruzamento[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E05.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]Futuro reino[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E06.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Futuro reino[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E06.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]Águias[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E07.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Águias[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E07.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Annie Oakley[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E08.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Annie Oakley[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E08.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]Jenny[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E09.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Jenny[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E09.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]O Círculo Mortal[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E10.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]O Círculo Mortal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E10.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]Para onde foram todas as crianças[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E11.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Para onde foram todas as crianças[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E11.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]Meio litro[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E12.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Meio litro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E12.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]Incêndios[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E13.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Incêndios[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E13.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E14[COLOR yellow] -> [COLOR white]Descoberta[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E14.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Descoberta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E14.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E15[COLOR yellow] -> [COLOR white]Dia de Perigo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E15.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]Dia de Perigo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E15.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]Pequeno lobo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E16.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Pequeno lobo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E16.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E17[COLOR yellow] -> [COLOR white]Segunda-feira desesperada[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E17.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E17[COLOR yellow] -> [COLOR white]Segunda-feira desesperada[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E17.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E18[COLOR yellow] -> [COLOR white]Corrida de Hawke[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E18.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E18[COLOR yellow] -> [COLOR white]Corrida de Hawke[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E18.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E19[COLOR yellow] -> [COLOR white]Arrombamento em Santa Paula[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E19.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E19[COLOR yellow] -> [COLOR white]Arrombamento em Santa Paula[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E19.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E20[COLOR yellow] -> [COLOR white]A garota que caiu do céu[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E20.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E20[COLOR yellow] -> [COLOR white]A garota que caiu do céu[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E20.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E21[COLOR yellow] -> [COLOR white]Faixas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E21.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E21[COLOR yellow] -> [COLOR white]Faixas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E21.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E22[COLOR yellow] -> [COLOR white]Pássaros do Paraíso[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T03/LS-T03E22.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jGX1K8kgdbxReDxPt33OUXO0ilX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E22[COLOR yellow] -> [COLOR white]Pássaros do Paraíso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T03/LS-T03E22.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 04 (1987) 22 EPs - SD LEG[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 04 (1987) 22 EPs - SD LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/04.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E01[COLOR yellow] -> [COLOR white]Blackjack[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E01.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Blackjack[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E01.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E02[COLOR yellow] -> [COLOR white]Escapar[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E02.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Escapar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E02.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E03[COLOR yellow] -> [COLOR white]Uma cidade para alugar[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E03.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Uma cidade para alugar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E03.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E04[COLOR yellow] -> [COLOR white]Salvamento[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E04.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Salvamento[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E04.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E05[COLOR yellow] -> [COLOR white]janelas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E05.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]janelas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E05.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E06[COLOR yellow] -> [COLOR white]Muito fácil[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E06.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Muito fácil[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E06.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E07[COLOR yellow] -> [COLOR white]Código do Silêncio[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E07.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Código do Silêncio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E07.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E08[COLOR yellow] -> [COLOR white]Stavogrado Parte 1[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E08.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Stavogrado Parte 1[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E08.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E09[COLOR yellow] -> [COLOR white]Stavogrado Parte 2[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E09.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Stavogrado Parte 2[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E09.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E10[COLOR yellow] -> [COLOR white]Trupe de Mimos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E10.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Trupe de Mimos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E10.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E11[COLOR yellow] -> [COLOR white]X-vírus[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E11.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]X-vírus[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E11.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E12[COLOR yellow] -> [COLOR white]Roque Guerreiro[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E12.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Roque Guerreiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E12.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E13[COLOR yellow] -> [COLOR white]Marco Zero[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E13.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Marco Zero[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E13.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E14[COLOR yellow] -> [COLOR white]A chave[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E14.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]A chave[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E14.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E15[COLOR yellow] -> [COLOR white]Em dobro[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E15.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white]Em dobro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E15.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E16[COLOR yellow] -> [COLOR white]Aviso de tempestade[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E16.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E16[COLOR yellow] -> [COLOR white]Aviso de tempestade[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E16.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E17[COLOR yellow] -> [COLOR white]O Dourado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E17.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E17[COLOR yellow] -> [COLOR white]O Dourado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E17.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E18[COLOR yellow] -> [COLOR white]O mestre das marionetes[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E18.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E18[COLOR yellow] -> [COLOR white]O mestre das marionetes[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E18.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E19[COLOR yellow] -> [COLOR white]Malduques[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E19.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E19[COLOR yellow] -> [COLOR white]Malduques[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E19.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E20[COLOR yellow] -> [COLOR white]Corrente de papoula[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E20.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E20[COLOR yellow] -> [COLOR white]Corrente de papoula[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E20.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E21[COLOR yellow] -> [COLOR white]Voar para casa[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E21.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E21[COLOR yellow] -> [COLOR white]Voar para casa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E21.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E22[COLOR yellow] -> [COLOR white]Bem vindo ao Paraíso[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo/T04/LS-T04E22.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/knoJddzREa2pRD98UxMofEQmrJv.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E22[COLOR yellow] -> [COLOR white]Bem vindo ao Paraíso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/1:/SRS/1-ACA/Aguia.de.Fogo.1984/T04/LS-T04E22.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/feMr2qdcnf2iefgZXKOQBYEMuZU.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
