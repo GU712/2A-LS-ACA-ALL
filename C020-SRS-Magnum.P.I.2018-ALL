@@ -1,476 +1,964 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>	
 <title>[COLOR orange][B]Magnum P.I.[/B][/COLOR]</title>	
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/wDdiwHqmYN24dXfN7zzDd275NDF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<info>[COLOR white]Assista aqui a série: 
+[B]Magnum P.I.
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 96 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um ex-integrante da marinha americana retorna do Afeganistão e usa suas 
+habilidades de militar para trabalhar como um investigador particular no Havaí.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (2018) 20 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Eu Vi o Sol Nascer[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Eu Vi o Sol Nascer[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Peixe Grande[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Peixe Grande[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]A Mulher Que Nunca Morreu[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Mulher Que Nunca Morreu[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Seis Pinturas E Um Enquadramento[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Seis Pinturas E Um Enquadramento[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Morte Súbita[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Morte Súbita[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]A Morte É Apenas Temporária[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Morte É Apenas Temporária[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Tapeação Felina[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Tapeação Felina[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Morra, Disse Ele[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Morra, Disse Ele[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Os Laços Que Atam[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Os Laços Que Atam[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Um Dia Ruim Para Ser Um Herói[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Um Dia Ruim Para Ser Um Herói[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Nenhum Lugar Para Fugir[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Nenhum Lugar Para Fugir[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]O Vencedor Leva Tudo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]O Vencedor Leva Tudo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]O Dia Do Viper[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]O Dia Do Viper[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Eu, O Falecido[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Eu, O Falecido[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Quando O Passado Volta[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Quando O Passado Volta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Um Assassinato Nunca É Silencioso[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E16.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Um Assassinato Nunca É Silencioso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E16.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]Em Busca Da Viúva-Negra[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E17.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Em Busca Da Viúva-Negra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E17.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]Um Beijo Antes De Morrer[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E18.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Um Beijo Antes De Morrer[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E18.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Sangue No Mar[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E19.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Sangue No Mar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E19.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]E Tudo Fez Sentindo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T01/LS-T01E20.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/3dn1ISca6A3BUAFboI6NZXEIZLu.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]E Tudo Fez Sentindo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T01/LS-T01E20.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 02 (2019) 20 EPs - HD DUB+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Vingança É Para Novatos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Vingança É Para Novatos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]Honra Entre Ladrões[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Honra Entre Ladrões[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]Cavaleiro Eterno[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Cavaleiro Eterno[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]Morto Por Dentro[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Morto Por Dentro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]Sobreviver Até o Amanhecer[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Sobreviver Até o Amanhecer[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]Mente, Trai, Rouba, Mata[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Mente, Trai, Rouba, Mata[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]O Homem do Quarto Secreto[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Homem do Quarto Secreto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]Ele Aparecia à Noite[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Ele Aparecia à Noite[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]Uma Bala Chamada Sina[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Uma Bala Chamada Sina[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]Irmãos De Sangue[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Irmãos De Sangue[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]Quando Conheci o Diabo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Quando Conheci o Diabo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]Medidas Desesperadas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Medidas Desesperadas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR white]Segunda É Dia de Morrer[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Segunda É Dia de Morrer[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]Um Jogo de Gato e Rato[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Um Jogo de Gato e Rato[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]Revendo o Passado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Revendo o Passado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]Adeus ao Amor[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E16.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]Adeus ao Amor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E16.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E17[COLOR yellow] -> [COLOR white]A Noite Tem Olhos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E17.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]A Noite Tem Olhos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E17.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E18[COLOR yellow] -> [COLOR white]Um Mundo de Problemas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E18.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]Um Mundo de Problemas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E18.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E19[COLOR yellow] -> [COLOR white]Que Vença o Melhor[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E19.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white]Que Vença o Melhor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E19.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E20[COLOR yellow] -> [COLOR white]Leopardo à Caça[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T02/LS-T02E20.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d8fnYc5hfdC9hvkVINZXMx8jvV.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]Leopardo à Caça[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T02/LS-T02E20.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 03 (2020) 16 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/03.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]Coisa Julgada[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Coisa Julgada[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]Dinheiro Fácil[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Dinheiro Fácil[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]Sem Saída[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Sem Saída[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]Primeiro a Surra, Depois as Consequências[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Primeiro a Surra, Depois as Consequências[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]O Dia Em Que O Perigo Entrou[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]O Dia Em Que O Perigo Entrou[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]Não Conte a Ninguém[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Não Conte a Ninguém[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]Assassino Na Vigília Da Meia-Noite[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Assassino Na Vigília Da Meia-Noite[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Alguém Para Cuidar De Mim[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Alguém Para Cuidar De Mim[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]A Grande Vingança[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]A Grande Vingança[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]O Longo Caminho Para Casa[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]O Longo Caminho Para Casa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]As Mentiras Que Dizemos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]As Mentiras Que Dizemos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]Captação Ilícita[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Captação Ilícita[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]Um Bebê E Um Homicídio[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Um Bebê E Um Homicídio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E14[COLOR yellow] -> [COLOR white]Sussurros De Morte[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Sussurros De Morte[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E15[COLOR yellow] -> [COLOR white]Antes Da Queda[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]Antes Da Queda[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]Laços De Sangue[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T03/LS-T03E16.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vbSV4lAFgTzKy5sPgzxB3VW2r02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Laços De Sangue[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T03/LS-T03E16.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 04 (2021) 20 EPs - HD DUB+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/04.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E01[COLOR yellow] -> [COLOR white]Vibrações Havaianas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Vibrações Havaianas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E02[COLOR yellow] -> [COLOR white]Maior A Queda[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Maior A Queda[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E03[COLOR yellow] -> [COLOR white]Tacada Do Texas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Tacada Do Texas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E04[COLOR yellow] -> [COLOR white]Quem Deixamos Pra Trás[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Quem Deixamos Pra Trás[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E05[COLOR yellow] -> [COLOR white]Até A Morte[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Até A Morte[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E06[COLOR yellow] -> [COLOR white]O Diabo Bate À Porta[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]O Diabo Bate À Porta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E07[COLOR yellow] -> [COLOR white]Outra Chance De Morrer[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Outra Chance De Morrer[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E08[COLOR yellow] -> [COLOR white]Fogo Nas Cinzas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Fogo Nas Cinzas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E09[COLOR yellow] -> [COLOR white]É Melhor Se Comportar[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]É Melhor Se Comportar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E10[COLOR yellow] -> [COLOR white]Amante dos Sonhos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Amante dos Sonhos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E11[COLOR yellow] -> [COLOR white]Se Eu Morrer Antes De Acordar[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Se Eu Morrer Antes De Acordar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E12[COLOR yellow] -> [COLOR white]Anjos Às Vezes Matam[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Anjos Às Vezes Matam[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E13[COLOR yellow] -> [COLOR white]Não Me Julgue[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Não Me Julgue[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E14[COLOR yellow] -> [COLOR white]Corra, Baby, Corra[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]Corra, Baby, Corra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E15[COLOR yellow] -> [COLOR white]Morto Ambulante[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white]Morto Ambulante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E16[COLOR yellow] -> [COLOR white]O Mal É Sorrateiro[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E16.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E16[COLOR yellow] -> [COLOR white]O Mal É Sorrateiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E16.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E17[COLOR yellow] -> [COLOR white]Se Lembre De Mim Amanhã[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E17.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E17[COLOR yellow] -> [COLOR white]Se Lembre De Mim Amanhã[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E17.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E18[COLOR yellow] -> [COLOR white]Cova Rasa, Mar Profundo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E18.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E18[COLOR yellow] -> [COLOR white]Cova Rasa, Mar Profundo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E18.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E19[COLOR yellow] -> [COLOR white]O Longo Sono[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E19.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E19[COLOR yellow] -> [COLOR white]O Longo Sono[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E19.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E20[COLOR yellow] -> [COLOR white]Perto Demais[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T04/LS-T04E20.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aUn4UNgrzU88IhOhHyd6WJ2YLAC.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T04E20[COLOR yellow] -> [COLOR white]Perto Demais[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T04/LS-T04E20.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 05 (2023) 20 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/05.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E01[COLOR yellow] -> [COLOR white]A Passageira[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]A Passageira[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E02[COLOR yellow] -> [COLOR white]No Limite[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]No Limite[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E03[COLOR yellow] -> [COLOR white]Número Um Com Uma Bala[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]Número Um Com Uma Bala[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E04[COLOR yellow] -> [COLOR white]Impróprio Para O Trabalho[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E04[COLOR yellow] -> [COLOR white]Impróprio Para O Trabalho[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E05[COLOR yellow] -> [COLOR white]Bem-vindo Ao Paraíso, Agora Morra![/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E05[COLOR yellow] -> [COLOR white]Bem-vindo Ao Paraíso, Agora Morra![COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E06[COLOR yellow] -> [COLOR white]Sósia[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]Sósia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E07[COLOR yellow] -> [COLOR white]Direito Inato[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]Direito Inato[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E08[COLOR yellow] -> [COLOR white]Céu Cinzento[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E08[COLOR yellow] -> [COLOR white]Céu Cinzento[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E09[COLOR yellow] -> [COLOR white]O Que Os Olhos Não Veem[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white]O Que Os Olhos Não Veem[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E10[COLOR yellow] -> [COLOR white]Fora de Controle[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]Fora de Controle[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E11[COLOR yellow] -> [COLOR white]Bata e Corre[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E11[COLOR yellow] -> [COLOR white]Bata e Corre[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E12[COLOR yellow] -> [COLOR white]Três Pontes[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E12[COLOR yellow] -> [COLOR white]Três Pontes[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E13[COLOR yellow] -> [COLOR white]Apetite Pelo Perigo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E13[COLOR yellow] -> [COLOR white]Apetite Pelo Perigo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E14[COLOR yellow] -> [COLOR white]A Noite Tem Mil Olhos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E14[COLOR yellow] -> [COLOR white]A Noite Tem Mil Olhos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E15[COLOR yellow] -> [COLOR white]A Recuperação[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E15[COLOR yellow] -> [COLOR white]A Recuperação[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E16[COLOR yellow] -> [COLOR white]Em Busca de Liberdade[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E16.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E16[COLOR yellow] -> [COLOR white]Em Busca de Liberdade[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E16.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E17[COLOR yellow] -> [COLOR white]Culpa Consciente[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E17.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E17[COLOR yellow] -> [COLOR white]Culpa Consciente[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E17.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E18[COLOR yellow] -> [COLOR white]Atividades Extracurriculares[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E18.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E18[COLOR yellow] -> [COLOR white]Atividades Extracurriculares[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E18.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E19[COLOR yellow] -> [COLOR white]Das Cinzas às Cinzas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E19.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E19[COLOR yellow] -> [COLOR white]Das Cinzas às Cinzas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E19.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E20[COLOR yellow] -> [COLOR white]Escolhas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/Magnum.P.I.2018/T05/LS-T05E20.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ofrHdEYS6MICh3pTQqwC7bspiLn.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart></item>
+<item><title>[COLOR orange][B]T05E20[COLOR yellow] -> [COLOR white]Escolhas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/1-ACA/2018.Magnum.P.I./T05/LS-T05E20.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
