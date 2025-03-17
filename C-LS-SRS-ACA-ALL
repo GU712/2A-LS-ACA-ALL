@@ -27,9 +27,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2001 a 2014
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]09 TEMPs - +200 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Agente federal Jack Bauer não se pode dar ao luxo de jogar pelas regras. Como membro da 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O Agente federal Jack Bauer não se pode dar ao luxo de jogar pelas regras. Como membro da 
 UCT, Jack deve parar bombas, vírus, tentativas de assassinato, e salvar alguém que lhe é próximo.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -92,7 +92,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/original/hTy1z8KR5NhFBUAt65Br9TWyuod.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/brNDL0tNemrDcLwTPWYhAOvMuu6.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Nomealvo
+[B]As Panteras
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1976 a 1980
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
@@ -353,9 +353,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1983 a 1986
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 98 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quatro veteranos da guerra do Vietnã são acusados por um crime que não cometeram e 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Quatro veteranos da guerra do Vietnã são acusados por um crime que não cometeram e 
 não conseguem mais provar sua inocência, já que os verdadeiros culpados estão mortos.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -464,7 +464,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Magnum P.I. (2018-2023) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/refs/heads/main/C020-SRS-Magnum.P.I.2018-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/refs/heads/main/C004-SRS-Magnum.P.I.2018-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/wDdiwHqmYN24dXfN7zzDd275NDF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9R15dCHrTtoknQzGpoRsLRoV1Si.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -517,11 +517,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1985
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 13 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jesse Mach, perde o seu melhor amigo e é ferido no joelho. 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Jesse Mach, perde o seu melhor amigo e é ferido no joelho. 
 E transferido para Relações Públicas.Norman Tuttle, um engenheiro do Governo, o escolhe para fazer parte do projeto secreto Moto Laser.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -532,7 +533,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Nikita (2010-2013) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]Nikita (2010-2013) - COMPLETA[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/refs/heads/main/C008B-SRS-Nikita.2010-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/762vNuJRCKv4Dw27cSza77YTvJz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/gmy9UWvw7fGEGO15Rq9ICT9Gplw.jpg</fanart>
